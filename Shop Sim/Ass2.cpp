@@ -1,8 +1,8 @@
-/*
-Assignment 2 – Simul Que 
-Nikola Mahmutagic nm319 6082671
-Wed 18:30 - 20:30
-*/
+
+
+
+
+
 
 #include <time.h>
 #include <cstdlib>

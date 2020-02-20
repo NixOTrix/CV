@@ -1,8 +1,8 @@
-/*
-Exercise 6 – Karp‐Rabin String Search  
-Nikola Mahmutagic nm319 6082671
-Wed 18:30 - 20:30
-*/
+
+
+
+
+
 
 #include <iostream>
 #include <fstream>
